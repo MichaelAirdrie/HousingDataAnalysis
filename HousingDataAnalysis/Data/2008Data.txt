@@ -1,0 +1,590 @@
+Units Absorbed by Dwelling Type and Census Subdivision for Centres 50,000+								
+Logements écoulés selon le type de logements et la subdivision de recensement, les centres de 50 000 habitants et plus								
+2008								
+								
+Province	Centre	"Census Subdivision
+Subdivision de recensement"	"Singles
+Individuels"	"Semis
+Jumelés"	"Row
+En bande"	"Apartment
+and Other
+Appartements
+et autres"	Total	
+Nfld.Lab./T.-N.-L.	St. John's	Conception Bay South (T)	207	--	--	--	207	
+Nfld.Lab./T.-N.-L.	St. John's	Portugal Cove-St. Philip's (T)	74	2	--	--	76	
+Nfld.Lab./T.-N.-L.	St. John's	Pouch Cove (T)	9	--	--	--	9	
+Nfld.Lab./T.-N.-L.	St. John's	Flatrock (T)	16	--	--	--	16	
+Nfld.Lab./T.-N.-L.	St. John's	Torbay (T)	70	--	--	12	82	
+Nfld.Lab./T.-N.-L.	St. John's	Logy Bay-Middle Cove-Outer Cove (T)	10	--	--	--	10	
+Nfld.Lab./T.-N.-L.	St. John's	Bauline (T)	--	--	--	--	--	
+Nfld.Lab./T.-N.-L.	St. John's	Paradise (T)	297	14	--	36	347	
+Nfld.Lab./T.-N.-L.	St. John's	St. John's (CY)	403	54	34	122	613	
+Nfld.Lab./T.-N.-L.	St. John's	Mount Pearl (CY)	49	--	--	4	53	
+Nfld.Lab./T.-N.-L.	St. John's	Petty Harbour-Maddox Cove (T)	2	--	--	--	2	
+Nfld.Lab./T.-N.-L.	St. John's	Bay Bulls (T)	25	--	--	--	25	
+Nfld.Lab./T.-N.-L.	St. John's	Witless Bay (T)	5	--	--	--	5	
+Nfld.Lab./T.-N.-L.	St. John's	Total	1,167	70	34	174	1,445	
+Nfld.Lab./T.-N.-L.	Total	Total	1,167	70	34	174	1,445	
+P.E.I./Î.-P.-É.	Charlottetown	Lot 48 (LOT)	14	2	--	--	16	
+P.E.I./Î.-P.-É.	Charlottetown	Lot 31 (LOT)	10	--	--	--	10	
+P.E.I./Î.-P.-É.	Charlottetown	Lot 65 (LOT)	16	--	--	--	16	
+P.E.I./Î.-P.-É.	Charlottetown	Meadowbank (COM)	--	--	--	--	--	
+P.E.I./Î.-P.-É.	Charlottetown	Clyde River (COM)	4	--	--	--	4	
+P.E.I./Î.-P.-É.	Charlottetown	Miltonvale Park (COM)	2	--	--	--	2	
+P.E.I./Î.-P.-É.	Charlottetown	Brackley (COM)	3	--	--	--	3	
+P.E.I./Î.-P.-É.	Charlottetown	Lot 33 (LOT)	4	--	--	--	4	
+P.E.I./Î.-P.-É.	Charlottetown	Union Road (COM)	--	--	--	--	--	
+P.E.I./Î.-P.-É.	Charlottetown	Lot 34 (LOT)	13	--	--	--	13	
+P.E.I./Î.-P.-É.	Charlottetown	Lot 35 (LOT)	15	--	--	--	15	
+P.E.I./Î.-P.-É.	Charlottetown	Lot 36 (LOT)	5	--	--	--	5	
+P.E.I./Î.-P.-É.	Charlottetown	Winsloe South (COM)	--	--	--	--	--	
+P.E.I./Î.-P.-É.	Charlottetown	Warren Grove (COM)	1	--	--	--	1	
+P.E.I./Î.-P.-É.	Charlottetown	Charlottetown (CY)	96	34	12	45	187	
+P.E.I./Î.-P.-É.	Charlottetown	Stratford (T)	90	4	--	--	94	
+P.E.I./Î.-P.-É.	Charlottetown	Cornwall (T)	32	6	--	--	38	
+P.E.I./Î.-P.-É.	Charlottetown	Total	305	46	12	45	408	
+P.E.I./Î.-P.-É.	Total	Total	305	46	12	45	408	
+N.S./N.-É.	Halifax	Halifax (RGM)	1,209	124	122	1,427	2,882	
+N.S./N.-É.	Halifax	Total	1,209	124	122	1,427	2,882	
+N.S./N.-É.	Cape Breton	Cape Breton (RGM)	123	53	3	18	197	
+N.S./N.-É.	Cape Breton	Total	123	53	3	18	197	
+N.S./N.-É.	Total	Total	1,332	177	125	1,445	3,079	
+N.B./N.-B.	Moncton	Elgin (P)	3	--	--	--	3	
+N.B./N.-B.	Moncton	Hillsborough (P)	2	--	--	--	2	
+N.B./N.-B.	Moncton	Coverdale (P)	22	--	--	--	22	
+N.B./N.-B.	Moncton	Riverview (T)	77	35	15	96	223	
+N.B./N.-B.	Moncton	Hillsborough (VL)	5	--	--	--	5	
+N.B./N.-B.	Moncton	Dorchester (P)	1	--	--	--	1	
+N.B./N.-B.	Moncton	Dorchester (VL)	1	--	--	--	1	
+N.B./N.-B.	Moncton	Memramcook (VL)	28	--	--	--	28	
+N.B./N.-B.	Moncton	Moncton (P)	53	--	--	--	53	
+N.B./N.-B.	Moncton	Moncton (CY)	227	272	2	29	530	
+N.B./N.-B.	Moncton	Salisbury (VL)	17	--	--	--	17	
+N.B./N.-B.	Moncton	Dieppe (CY)	208	115	25	107	455	
+N.B./N.-B.	Moncton	Saint Paul (P)	1	--	--	--	1	
+N.B./N.-B.	Moncton	Total	645	422	42	232	1,341	
+N.B./N.-B.	Saint John	Saint Martins (P)	7	--	--	--	7	
+N.B./N.-B.	Saint John	St. Martins (VL)	--	--	--	--	--	
+N.B./N.-B.	Saint John	Simonds (P)	22	--	--	--	22	
+N.B./N.-B.	Saint John	Saint John (CY)	148	40	50	55	293	
+N.B./N.-B.	Saint John	Musquash (P)	5	--	--	--	5	
+N.B./N.-B.	Saint John	Lepreau (P)	1	--	--	--	1	
+N.B./N.-B.	Saint John	Petersville (P)	3	--	--	--	3	
+N.B./N.-B.	Saint John	Upham (P)	3	--	--	--	3	
+N.B./N.-B.	Saint John	Hampton (P)	6	--	--	--	6	
+N.B./N.-B.	Saint John	Hampton (T)	18	3	12	--	33	
+N.B./N.-B.	Saint John	Rothesay (P)	--	--	--	--	--	
+N.B./N.-B.	Saint John	Westfield (P)	7	--	--	--	7	
+N.B./N.-B.	Saint John	Kingston (P)	11	--	--	--	11	
+N.B./N.-B.	Saint John	Grand Bay-Westfield (T)	20	--	--	7	27	
+N.B./N.-B.	Saint John	Greenwich (P)	4	--	--	--	4	
+N.B./N.-B.	Saint John	Rothesay (T)	37	2	4	--	43	
+N.B./N.-B.	Saint John	Quispamsis (T)	153	8	11	4	176	
+N.B./N.-B.	Saint John	Total	445	53	77	66	641	
+N.B./N.-B.	Fredericton	Lincoln (P)	90	--	--	--	90	
+N.B./N.-B.	Fredericton	Maugerville (P)	16	--	--	2	18	
+N.B./N.-B.	Fredericton	New Maryland (P)	21	--	--	--	21	
+N.B./N.-B.	Fredericton	New Maryland (VL)	3	--	--	--	3	
+N.B./N.-B.	Fredericton	Kingsclear (P)	46	--	--	2	48	
+N.B./N.-B.	Fredericton	Bright (P)	29	--	--	--	29	
+N.B./N.-B.	Fredericton	Douglas (P)	39	--	--	--	39	
+N.B./N.-B.	Fredericton	Saint Marys (P)	39	2	--	--	41	
+N.B./N.-B.	Fredericton	Fredericton (CY)	210	11	38	162	421	
+N.B./N.-B.	Fredericton	Total	493	13	38	166	710	
+N.B./N.-B.	Total	Total	1,583	488	157	464	2,692	
+Que/Qc	Saguenay	Saguenay (V)	338	4	18	226	586	
+Que/Qc	Saguenay	Saint-Fulgence (MÉ)	10	--	--	--	10	
+Que/Qc	Saguenay	Saint-Honoré (MÉ)	32	1	--	1	34	
+Que/Qc	Saguenay	Larouche (MÉ)	11	--	--	--	11	
+Que/Qc	Saguenay	Total	391	5	18	227	641	
+Que/Qc	Montréal	Lavaltrie (V)	60	--	--	47	107	
+Que/Qc	Montréal	Richelieu (V)	14	--	--	10	24	
+Que/Qc	Montréal	Saint-Mathias-sur-Richelieu (MÉ)	6	16	--	--	22	
+Que/Qc	Montréal	Chambly (V)	153	24	2	43	222	
+Que/Qc	Montréal	Carignan (V)	46	--	--	--	46	
+Que/Qc	Montréal	Saint-Basile-le-Grand (V)	37	--	--	35	72	
+Que/Qc	Montréal	McMasterville (MÉ)	5	11	--	21	37	
+Que/Qc	Montréal	Otterburn Park (V)	14	--	--	4	18	
+Que/Qc	Montréal	Mont-Saint-Hilaire (V)	110	41	--	314	465	
+Que/Qc	Montréal	Beloeil (V)	108	43	54	33	238	
+Que/Qc	Montréal	Saint-Mathieu-de-Beloeil (MÉ)	19	20	--	--	39	
+Que/Qc	Montréal	Brossard (V)	144	45	43	697	929	
+Que/Qc	Montréal	Saint-Lambert (V)	--	--	--	3	3	
+Que/Qc	Montréal	Boucherville (V)	68	2	--	105	175	
+Que/Qc	Montréal	Saint-Bruno-de-Montarville (V)	84	4	28	150	266	
+Que/Qc	Montréal	Longueuil (V)	223	37	4	375	639	
+Que/Qc	Montréal	Sainte-Julie (V)	42	--	--	33	75	
+Que/Qc	Montréal	Saint-Amable (MÉ)	106	48	--	20	174	
+Que/Qc	Montréal	Varennes (V)	2	--	--	3	5	
+Que/Qc	Montréal	Verchères (MÉ)	35	--	--	--	35	
+Que/Qc	Montréal	Charlemagne (V)	--	--	7	39	46	
+Que/Qc	Montréal	Repentigny (V)	174	1	--	306	481	
+Que/Qc	Montréal	Saint-Sulpice (PE)	1	2	--	--	3	
+Que/Qc	Montréal	L'Assomption (V)	155	54	--	70	279	
+Que/Qc	Montréal	L'Épiphanie (V)	27	17	13	39	96	
+Que/Qc	Montréal	L'Épiphanie (PE)	--	--	--	--	--	
+Que/Qc	Montréal	Terrebonne (V)	563	30	7	355	955	
+Que/Qc	Montréal	Mascouche (V)	286	32	47	573	938	
+Que/Qc	Montréal	Laval (V)	957	201	132	1,966	3,256	
+Que/Qc	Montréal	Montréal-Est (V)	--	--	--	--	--	
+Que/Qc	Montréal	Montréal (V)	390	106	482	4,812	5,790	
+Que/Qc	Montréal	Westmount (V)	3	--	--	1	4	
+Que/Qc	Montréal	Montréal-Ouest (V)	--	--	--	--	--	
+Que/Qc	Montréal	Côte-Saint-Luc (V)	5	--	--	25	30	
+Que/Qc	Montréal	Hampstead (V)	7	--	--	--	7	
+Que/Qc	Montréal	Mont-Royal (V)	5	--	--	17	22	
+Que/Qc	Montréal	Dorval (CÉ)	7	--	--	6	13	
+Que/Qc	Montréal	Île-Dorval (V)	--	--	--	--	--	
+Que/Qc	Montréal	Pointe-Claire (V)	7	--	28	124	159	
+Que/Qc	Montréal	Kirkland (V)	2	--	10	--	12	
+Que/Qc	Montréal	Beaconsfield (V)	21	--	--	75	96	
+Que/Qc	Montréal	Baie-d'Urfé (V)	2	--	--	--	2	
+Que/Qc	Montréal	Sainte-Anne-de-Bellevue (V)	3	--	--	2	5	
+Que/Qc	Montréal	Senneville (VL)	1	--	--	--	1	
+Que/Qc	Montréal	Dollard-des-Ormeaux (V)	7	--	18	156	181	
+Que/Qc	Montréal	Saint-Mathieu (MÉ)	5	3	--	--	8	
+Que/Qc	Montréal	Saint-Philippe (MÉ)	30	2	--	20	52	
+Que/Qc	Montréal	La Prairie (V)	97	--	7	8	112	
+Que/Qc	Montréal	Candiac (V)	215	35	85	30	365	
+Que/Qc	Montréal	Delson (V)	13	2	3	--	18	
+Que/Qc	Montréal	Sainte-Catherine (V)	7	35	3	--	45	
+Que/Qc	Montréal	Saint-Constant (V)	80	--	4	43	127	
+Que/Qc	Montréal	Saint-Isidore (PE)	4	--	--	9	13	
+Que/Qc	Montréal	Mercier (V)	111	--	--	31	142	
+Que/Qc	Montréal	Châteauguay (V)	168	76	--	192	436	
+Que/Qc	Montréal	Léry (V)	1	--	--	--	1	
+Que/Qc	Montréal	Beauharnois (V)	29	6	--	42	77	
+Que/Qc	Montréal	Saint-Zotique (VL)	130	--	--	54	184	
+Que/Qc	Montréal	Les Coteaux (MÉ)	36	--	43	8	87	
+Que/Qc	Montréal	Coteau-du-Lac (MÉ)	36	--	--	14	50	
+Que/Qc	Montréal	Les Cèdres (MÉ)	26	16	--	--	42	
+Que/Qc	Montréal	Pointe-des-Cascades (VL)	13	--	--	6	19	
+Que/Qc	Montréal	L'Île-Perrot (V)	--	--	2	37	39	
+Que/Qc	Montréal	Notre-Dame-de-l'Île-Perrot (V)	61	--	--	29	90	
+Que/Qc	Montréal	Pincourt (V)	195	2	108	36	341	
+Que/Qc	Montréal	Terrasse-Vaudreuil (MÉ)	--	--	--	--	--	
+Que/Qc	Montréal	Vaudreuil-Dorion (V)	287	52	4	122	465	
+Que/Qc	Montréal	Vaudreuil-sur-le-Lac (VL)	5	--	--	--	5	
+Que/Qc	Montréal	L'Île-Cadieux (V)	--	--	--	--	--	
+Que/Qc	Montréal	Hudson (V)	18	--	--	--	18	
+Que/Qc	Montréal	Saint-Lazare (V)	165	--	--	15	180	
+Que/Qc	Montréal	Saint-Eustache (V)	120	--	4	146	270	
+Que/Qc	Montréal	Deux-Montagnes (V)	15	--	11	14	40	
+Que/Qc	Montréal	Sainte-Marthe-sur-le-Lac (V)	226	--	9	169	404	
+Que/Qc	Montréal	Pointe-Calumet (MÉ)	44	--	--	2	46	
+Que/Qc	Montréal	Saint-Joseph-du-Lac (MÉ)	29	--	--	29	58	
+Que/Qc	Montréal	Oka (MÉ)	27	--	--	--	27	
+Que/Qc	Montréal	Saint-Placide (MÉ)	7	--	--	2	9	
+Que/Qc	Montréal	Boisbriand (V)	12	--	6	13	31	
+Que/Qc	Montréal	Sainte-Thérèse (V)	4	--	--	345	349	
+Que/Qc	Montréal	Blainville (V)	255	4	--	164	423	
+Que/Qc	Montréal	Rosemère (V)	20	--	--	0	20	
+Que/Qc	Montréal	Lorraine (V)	8	--	--	--	8	
+Que/Qc	Montréal	Bois-des-Filion (V)	30	--	11	61	102	
+Que/Qc	Montréal	Sainte-Anne-des-Plaines (V)	51	--	--	12	63	
+Que/Qc	Montréal	Mirabel (V)	286	--	--	279	565	
+Que/Qc	Montréal	Saint-Colomban (PE)	213	--	4	20	237	
+Que/Qc	Montréal	Saint-Jérôme (V)	281	35	--	329	645	
+Que/Qc	Montréal	Gore (CT)	35	--	--	--	35	
+Que/Qc	Montréal	Total	7,294	1,002	1,179	12,740	22,215	
+Que/Qc	Gatineau	Gatineau (V)	725	548	200	1,207	2,680	
+Que/Qc	Gatineau	L'Ange-Gardien (MÉ)	53	--	--	2	55	
+Que/Qc	Gatineau	Val-des-Monts (MÉ)	101	6	--	14	121	
+Que/Qc	Gatineau	Cantley (MÉ)	108	--	--	2	110	
+Que/Qc	Gatineau	Chelsea (MÉ)	23	--	--	--	23	
+Que/Qc	Gatineau	Pontiac (MÉ)	30	--	--	--	30	
+Que/Qc	Gatineau	La Pêche (MÉ)	48	--	--	2	50	
+Que/Qc	Gatineau	Denholm (MÉ)	1	--	--	--	1	
+Que/Qc	Gatineau	Total	1,089	554	200	1,227	3,070	
+Que/Qc	Québec	Saint-Henri (MÉ)	39	17	--	10	66	
+Que/Qc	Québec	Beaumont (MÉ)	3	--	--	--	3	
+Que/Qc	Québec	Saint-François-de-l'Île-d'Orléans (MÉ)	1	--	--	--	1	
+Que/Qc	Québec	Sainte-Famille (PE)	3	--	--	--	3	
+Que/Qc	Québec	Saint-Jean-de-l'Île-d'Orléans (MÉ)	1	--	--	--	1	
+Que/Qc	Québec	Saint-Laurent-de-l'Île-d'Orléans (MÉ)	4	--	--	--	4	
+Que/Qc	Québec	Saint-Pierre-de-l'Île-d'Orléans (MÉ)	3	--	--	1	4	
+Que/Qc	Québec	Sainte-Pétronille (VL)	1	--	--	--	1	
+Que/Qc	Québec	Château-Richer (V)	38	9	--	4	51	
+Que/Qc	Québec	L'Ange-Gardien (PE)	30	8	--	30	68	
+Que/Qc	Québec	Boischatel (MÉ)	67	--	--	--	67	
+Que/Qc	Québec	Sainte-Catherine-de-la-Jacques-Cartier (V)	96	--	--	55	151	
+Que/Qc	Québec	Fossambault-sur-le-Lac (V)	26	--	--	--	26	
+Que/Qc	Québec	Lac-Saint-Joseph (V)	--	--	--	--	--	
+Que/Qc	Québec	Shannon (MÉ)	72	2	--	6	80	
+Que/Qc	Québec	Saint-Gabriel-de-Valcartier (MÉ)	46	--	--	5	51	
+Que/Qc	Québec	Lac-Delage (V)	3	--	--	--	3	
+Que/Qc	Québec	Stoneham-et-Tewkesbury (CU)	112	3	--	13	128	
+Que/Qc	Québec	Lac-Beauport (MÉ)	41	--	--	--	41	
+Que/Qc	Québec	Sainte-Brigitte-de-Laval (MÉ)	75	43	--	6	124	
+Que/Qc	Québec	Notre-Dame-des-Anges (PE)	--	--	--	--	--	
+Que/Qc	Québec	Québec (V)	793	220	62	1,999	3,074	
+Que/Qc	Québec	L'Ancienne-Lorette (V)	1	--	5	41	47	
+Que/Qc	Québec	Saint-Augustin-de-Desmaures (V)	64	17	14	--	95	
+Que/Qc	Québec	Lévis (V)	367	112	121	255	855	
+Que/Qc	Québec	Saint-Lambert-de-Lauzon (PE)	67	6	--	--	73	
+Que/Qc	Québec	Total	1,953	437	202	2,425	5,017	
+Que/Qc	Sherbrooke	Ascot Corner (MÉ)	10	--	--	5	15	
+Que/Qc	Sherbrooke	Stoke (MÉ)	3	--	--	--	3	
+Que/Qc	Sherbrooke	Saint-Denis-de-Brompton (PE)	31	--	--	--	31	
+Que/Qc	Sherbrooke	Sherbrooke (V)	483	32	30	394	939	
+Que/Qc	Sherbrooke	Compton (MÉ)	12	--	--	--	12	
+Que/Qc	Sherbrooke	Waterville (V)	--	--	--	--	--	
+Que/Qc	Sherbrooke	North Hatley (VL)	2	--	--	--	2	
+Que/Qc	Sherbrooke	Hatley (CT)	19	--	--	--	19	
+Que/Qc	Sherbrooke	Magog (V)	80	18	3	127	228	
+Que/Qc	Sherbrooke	Total	640	50	33	526	1,249	
+Que/Qc	Trois-Rivières	Trois-Rivières (V)	281	108	26	430	845	
+Que/Qc	Trois-Rivières	Champlain (MÉ)	3	--	--	--	3	
+Que/Qc	Trois-Rivières	Saint-Maurice (PE)	35	2	4	3	44	
+Que/Qc	Trois-Rivières	Bécancour (V)	67	4	25	53	149	
+Que/Qc	Trois-Rivières	Total	386	114	55	486	1,041	
+Que/Qc	Drummondville	Saint-Lucien (PE)	10	--	--	--	10	
+Que/Qc	Drummondville	Saint-Germain-de-Grantham (MÉ)	30	--	--	6	36	
+Que/Qc	Drummondville	Drummondville (V)	285	36	--	285	606	
+Que/Qc	Drummondville	Saint-Cyrille-de-Wendover (MÉ)	--	--	--	--	--	
+Que/Qc	Drummondville	Saint-Majorique-de-Grantham (PE)	2	0	--	2	4	
+Que/Qc	Drummondville	Total	327	36	--	293	656	
+Que/Qc	Granby	Bromont (V)	101	32	--	59	192	
+Que/Qc	Granby	Saint-Alphonse (PE)	13	2	--	--	15	
+Que/Qc	Granby	Granby (V)	150	50	20	199	419	
+Que/Qc	Granby	Granby (CT)	23	--	--	--	23	
+Que/Qc	Granby	Total	287	84	20	258	649	
+Que/Qc	Saint-Hyacinthe	La Présentation (PE)	8	6	--	25	39	
+Que/Qc	Saint-Hyacinthe	Saint-Hyacinthe (V)	103	32	31	106	272	
+Que/Qc	Saint-Hyacinthe	Saint-Simon (PE)	--	--	--	--	--	
+Que/Qc	Saint-Hyacinthe	Saint-Barnabé-Sud (MÉ)	1	--	--	--	1	
+Que/Qc	Saint-Hyacinthe	Total	112	38	31	131	312	
+Que/Qc	Saint-Jean-sur-Richelieu	Saint-Jean-sur-Richelieu (V)	265	16	21	231	533	
+Que/Qc	Saint-Jean-sur-Richelieu	Total	265	16	21	231	533	
+Que/Qc	Shawinigan	Grandes-Piles (VL)	5	--	--	--	5	
+Que/Qc	Shawinigan	Shawinigan (V)	79	--	--	35	114	
+Que/Qc	Shawinigan	Saint-Boniface (MÉ)	36	--	--	13	49	
+Que/Qc	Shawinigan	Total	120	--	--	48	168	
+Que/Qc	Total	Total	12,864	2,336	1,759	18,592	35,551	
+Ont./Ont.	Barrie	Springwater (TP)	93	--	--	--	93	
+Ont./Ont.	Barrie	Innisfil (T)	260	--	40	--	300	
+Ont./Ont.	Barrie	Barrie (CY)	519	17	81	70	687	
+Ont./Ont.	Barrie	Total	872	17	121	70	1,080	
+Ont./Ont.	Brantford	Brant (CY)	151	--	5	--	156	
+Ont./Ont.	Brantford	Brantford (CY)	294	14	94	2	404	
+Ont./Ont.	Brantford	Total	445	14	99	2	560	
+Ont./Ont.	Guelph	Guelph (CY)	429	42	157	83	711	
+Ont./Ont.	Guelph	Guelph/Eramosa (TP)	55	5	6	--	66	
+Ont./Ont.	Guelph	Total	484	47	163	83	777	
+Ont./Ont.	Hamilton	Burlington (CY)	513	92	246	64	915	
+Ont./Ont.	Hamilton	Hamilton (CY)	1,117	30	485	23	1,655	
+Ont./Ont.	Hamilton	Grimsby (T)	132	--	57	--	189	
+Ont./Ont.	Hamilton	Total	1,762	122	788	87	2,759	
+Ont./Ont.	Kingston	Frontenac Islands (TP)	9	--	--	--	9	
+Ont./Ont.	Kingston	Kingston (CY)	422	27	78	72	599	
+Ont./Ont.	Kingston	South Frontenac (TP)	79	--	--	--	79	
+Ont./Ont.	Kingston	Loyalist (TP)	64	2	9	--	75	
+Ont./Ont.	Kingston	Total	574	29	87	72	762	
+Ont./Ont.	Kitchener	North Dumfries (TP)	24	--	--	--	24	
+Ont./Ont.	Kitchener	Cambridge (CY)	40	1	85	23	149	
+Ont./Ont.	Kitchener	Kitchener (CY)	747	121	377	242	1,487	
+Ont./Ont.	Kitchener	Waterloo (CY)	255	8	72	196	531	
+Ont./Ont.	Kitchener	Woolwich (TP)	190	30	20	--	240	
+Ont./Ont.	Kitchener	Total	1,256	160	554	461	2,431	
+Ont./Ont.	London	Central Elgin (MU)	46	--	--	2	48	
+Ont./Ont.	London	St. Thomas (CY)	204	20	--	8	232	
+Ont./Ont.	London	Southwold (TP)	12	--	--	--	12	
+Ont./Ont.	London	Strathroy-Caradoc (TP)	99	--	--	28	127	
+Ont./Ont.	London	Thames Centre (MU)	35	--	5	--	40	
+Ont./Ont.	London	Middlesex Centre (TP)	98	--	9	8	115	
+Ont./Ont.	London	London (CY)	1,165	1	292	814	2,272	
+Ont./Ont.	London	Adelaide Metcalfe (TP)	8	--	--	--	8	
+Ont./Ont.	London	Total	1,667	21	306	860	2,854	
+Ont./Ont.	St. Catharines-Niagara	Fort Erie (T)	101	9	12	--	122	
+Ont./Ont.	St. Catharines-Niagara	Port Colborne (CY)	19	--	--	--	19	
+Ont./Ont.	St. Catharines-Niagara	Wainfleet (TP)	8	--	--	--	8	
+Ont./Ont.	St. Catharines-Niagara	Pelham (T)	70	1	12	--	83	
+Ont./Ont.	St. Catharines-Niagara	Welland (CY)	81	11	--	--	92	
+Ont./Ont.	St. Catharines-Niagara	Thorold (CY)	24	4	--	--	28	
+Ont./Ont.	St. Catharines-Niagara	Niagara Falls (CY)	147	35	24	18	224	
+Ont./Ont.	St. Catharines-Niagara	Niagara-on-the-Lake (T)	94	1	37	5	137	
+Ont./Ont.	St. Catharines-Niagara	St. Catharines (CY)	88	12	82	--	182	
+Ont./Ont.	St. Catharines-Niagara	Lincoln (T)	65	4	--	--	69	
+Ont./Ont.	St. Catharines-Niagara	Total	697	77	167	23	964	
+Ont./Ont.	Oshawa	Whitby (T)	593	6	231	1	831	
+Ont./Ont.	Oshawa	Oshawa (CY)	726	2	63	6	797	
+Ont./Ont.	Oshawa	Clarington (MU)	467	3	106	138	714	
+Ont./Ont.	Oshawa	Total	1,786	11	400	145	2,342	
+Ont./Ont.	Ottawa	Clarence-Rockland (CY)	131	4	16	3	154	
+Ont./Ont.	Ottawa	Russell (TP)	104	4	--	22	130	
+Ont./Ont.	Ottawa	Ottawa (CY)	2,695	240	2,010	1,229	6,174	
+Ont./Ont.	Ottawa	Total	2,930	248	2,026	1,254	6,458	
+Ont./Ont.	Peterborough	Otonabee-South Monaghan (TP)	16	--	--	--	16	
+Ont./Ont.	Peterborough	Cavan-Millbrook-North Monaghan (TP)	7	--	--	--	7	
+Ont./Ont.	Peterborough	Peterborough (CY)	206	--	64	--	270	
+Ont./Ont.	Peterborough	Smith-Ennismore-Lakefield (TP)	63	--	--	--	63	
+Ont./Ont.	Peterborough	Douro-Dummer (TP)	19	--	--	--	19	
+Ont./Ont.	Peterborough	Total	311	--	64	--	375	
+Ont./Ont.	Greater Sudbury	Greater Sudbury (CY)	488	27	8	36	559	
+Ont./Ont.	Greater Sudbury	Total	488	27	8	36	559	
+Ont./Ont.	Thunder Bay	Neebing (MU)	3	--	--	--	3	
+Ont./Ont.	Thunder Bay	Thunder Bay (CY)	150	6	10	31	197	
+Ont./Ont.	Thunder Bay	Oliver Paipoonge (MU)	14	--	2	--	16	
+Ont./Ont.	Thunder Bay	Gillies (TP)	2	--	--	--	2	
+Ont./Ont.	Thunder Bay	O'Connor (TP)	1	--	--	--	1	
+Ont./Ont.	Thunder Bay	Conmee (TP)	--	--	--	--	--	
+Ont./Ont.	Thunder Bay	Shuniah (TP)	16	--	--	--	16	
+Ont./Ont.	Thunder Bay	Total	186	6	12	31	235	
+Ont./Ont.	Toronto	Pickering (CY)	107	--	56	--	163	
+Ont./Ont.	Toronto	Ajax (T)	582	157	319	--	1,058	
+Ont./Ont.	Toronto	Uxbridge (TP)	163	1	55	--	219	
+Ont./Ont.	Toronto	Vaughan (CY)	1,731	297	449	479	2,956	
+Ont./Ont.	Toronto	Markham (T)	1,481	296	366	852	2,995	
+Ont./Ont.	Toronto	Richmond Hill (T)	520	26	153	205	904	
+Ont./Ont.	Toronto	Whitchurch-Stouffville (T)	688	93	100	--	881	
+Ont./Ont.	Toronto	Aurora (T)	358	--	76	--	434	
+Ont./Ont.	Toronto	Newmarket (T)	327	22	150	71	570	
+Ont./Ont.	Toronto	King (TP)	23	--	--	--	23	
+Ont./Ont.	Toronto	East Gwillimbury (T)	17	--	59	--	76	
+Ont./Ont.	Toronto	Georgina (T)	190	--	--	--	190	
+Ont./Ont.	Toronto	Toronto (CY)	1,033	163	925	10,757	12,878	
+Ont./Ont.	Toronto	Mississauga (CY)	1,016	217	389	1,383	3,005	
+Ont./Ont.	Toronto	Brampton (CY)	2,283	579	508	501	3,871	
+Ont./Ont.	Toronto	Caledon (T)	62	15	10	--	87	
+Ont./Ont.	Toronto	Mono (T)	65	--	--	--	65	
+Ont./Ont.	Toronto	Orangeville (T)	77	--	1	--	78	
+Ont./Ont.	Toronto	Oakville (T)	975	33	351	276	1,635	
+Ont./Ont.	Toronto	Milton (T)	1,361	304	727	160	2,552	
+Ont./Ont.	Toronto	Halton Hills (T)	161	2	110	--	273	
+Ont./Ont.	Toronto	New Tecumseth (TP)	217	12	13	42	284	
+Ont./Ont.	Toronto	Bradford West Gwillimbury (T)	244	6	--	--	250	
+Ont./Ont.	Toronto	Total	13,681	2,223	4,817	14,726	35,447	
+Ont./Ont.	Windsor	Amherstburg (T)	25	13	4	--	42	
+Ont./Ont.	Windsor	LaSalle (T)	60	4	2	--	66	
+Ont./Ont.	Windsor	Windsor (CY)	145	10	17	125	297	
+Ont./Ont.	Windsor	Tecumseh (T)	18	1	--	--	19	
+Ont./Ont.	Windsor	Lakeshore (T)	110	2	15	--	127	
+Ont./Ont.	Windsor	Total	358	30	38	125	551	
+Ont./Ont.	Belleville	Belleville (CY)	124	6	26	10	166	
+Ont./Ont.	Belleville	Quinte West (CY)	156	--	--	--	156	
+Ont./Ont.	Belleville	Total	280	6	26	10	322	
+Ont./Ont.	Chatham-Kent	Chatham-Kent (MU)	145	10	8	--	163	
+Ont./Ont.	Chatham-Kent	Total	145	10	8	--	163	
+Ont./Ont.	Cornwall	South Stormont (TP)	54	--	1	--	55	
+Ont./Ont.	Cornwall	Cornwall (CY)	43	11	9	--	63	
+Ont./Ont.	Cornwall	Total	97	11	10	--	118	
+Ont./Ont.	Kawartha Lakes	Kawartha Lakes (CY)	347	9	16	--	372	
+Ont./Ont.	Kawartha Lakes	Total	347	9	16	--	372	
+Ont./Ont.	Norfolk	Norfolk County (CY)	236	19	34	--	289	
+Ont./Ont.	Norfolk	Total	236	19	34	--	289	
+Ont./Ont.	North Bay	Bonfield (TP)	4	--	--	--	4	
+Ont./Ont.	North Bay	East Ferris (TP)	21	--	--	--	21	
+Ont./Ont.	North Bay	North Bay (CY)	85	--	--	88	173	
+Ont./Ont.	North Bay	Callander (MU)	21	--	--	--	21	
+Ont./Ont.	North Bay	Total	131	--	--	88	219	
+Ont./Ont.	Sarnia	St. Clair (TP)	47	--	11	--	58	
+Ont./Ont.	Sarnia	Sarnia (CY)	217	--	10	11	238	
+Ont./Ont.	Sarnia	Point Edward (VL)	4	--	--	--	4	
+Ont./Ont.	Sarnia	Total	268	--	21	11	300	
+Ont./Ont.	Sault Sainte-Marie	Laird (TP)	1	--	--	--	1	
+Ont./Ont.	Sault Sainte-Marie	Macdonald, Meredith and Aberdeen Additional (TP)	1	--	--	--	1	
+Ont./Ont.	Sault Sainte-Marie	Sault Ste. Marie (CY)	79	4	--	--	83	
+Ont./Ont.	Sault Sainte-Marie	Prince (TP)	3	--	--	--	3	
+Ont./Ont.	Sault Sainte-Marie	Total	84	4	--	--	88	
+Ont./Ont.	Total	Total	29,085	3,091	9,765	18,084	60,025	
+Man./Man.	Winnipeg	Taché (RM)	71	--	0	--	71	
+Man./Man.	Winnipeg	Ritchot (RM)	33	0	--	--	33	
+Man./Man.	Winnipeg	Macdonald (RM)	51	4	--	--	55	
+Man./Man.	Winnipeg	St. Francois Xavier (RM)	4	--	--	--	4	
+Man./Man.	Winnipeg	Winnipeg (CY)	1,338	13	69	1,190	2,610	
+Man./Man.	Winnipeg	Headingley (RM)	61	--	--	--	61	
+Man./Man.	Winnipeg	Springfield (RM)	105	2	--	--	107	
+Man./Man.	Winnipeg	East St. Paul (RM)	45	--	--	--	45	
+Man./Man.	Winnipeg	West St. Paul (RM)	61	--	--	--	61	
+Man./Man.	Winnipeg	St. Clements (RM)	69	--	--	2	71	
+Man./Man.	Winnipeg	Rosser (RM)	4	--	--	--	4	
+Man./Man.	Winnipeg	Total	1,842	19	69	1,192	3,122	
+Man./Man.	Total	Total	1,842	19	69	1,192	3,122	
+Sask./Sask.	Regina	Pense No. 160 (RM)	1	--	--	--	1	
+Sask./Sask.	Regina	Belle Plaine (VL)	--	--	--	--	--	
+Sask./Sask.	Regina	Pense (VL)	3	--	--	--	3	
+Sask./Sask.	Regina	Sherwood No. 159 (RM)	1	--	--	--	1	
+Sask./Sask.	Regina	Regina (CY)	595	18	129	94	836	
+Sask./Sask.	Regina	Grand Coulee (VL)	9	--	--	--	9	
+Sask./Sask.	Regina	Edenwold No. 158 (RM)	12	--	--	2	14	
+Sask./Sask.	Regina	White City (T)	74	--	--	--	74	
+Sask./Sask.	Regina	Pilot Butte (T)	2	--	--	--	2	
+Sask./Sask.	Regina	Balgonie (T)	8	8	--	--	16	
+Sask./Sask.	Regina	Edenwold (VL)	--	--	--	--	--	
+Sask./Sask.	Regina	Lumsden No. 189 (RM)	11	--	--	--	11	
+Sask./Sask.	Regina	Disley (VL)	--	--	--	--	--	
+Sask./Sask.	Regina	Buena Vista (VL)	11	--	--	1	12	
+Sask./Sask.	Regina	Lumsden (T)	13	--	--	--	13	
+Sask./Sask.	Regina	Lumsden Beach (RV)	--	--	--	--	--	
+Sask./Sask.	Regina	Regina Beach (T)	3	--	--	--	3	
+Sask./Sask.	Regina	Total	743	26	129	97	995	
+Sask./Sask.	Saskatoon	Thode (RV)	--	--	--	--	--	
+Sask./Sask.	Saskatoon	Dundurn No. 314 (RM)	3	--	--	--	3	
+Sask./Sask.	Saskatoon	Dundurn (T)	1	--	--	--	1	
+Sask./Sask.	Saskatoon	Shields (RV)	3	--	--	--	3	
+Sask./Sask.	Saskatoon	Corman Park No. 344 (RM)	61	--	--	--	61	
+Sask./Sask.	Saskatoon	Saskatoon (CY)	832	87	203	217	1,339	
+Sask./Sask.	Saskatoon	Langham (T)	4	--	8	--	12	
+Sask./Sask.	Saskatoon	Warman (T)	109	19	15	--	143	
+Sask./Sask.	Saskatoon	Blucher No. 343 (RM)	25	--	--	--	25	
+Sask./Sask.	Saskatoon	Martensville (T)	192	8	43	24	267	
+Sask./Sask.	Saskatoon	Bradwell (VL)	10	--	--	--	10	
+Sask./Sask.	Saskatoon	Allan (T)	8	--	--	--	8	
+Sask./Sask.	Saskatoon	Dalmeny (T)	11	--	--	--	11	
+Sask./Sask.	Saskatoon	Elstow (VL)	--	--	--	--	--	
+Sask./Sask.	Saskatoon	Osler (T)	15	4	5	--	24	
+Sask./Sask.	Saskatoon	Colonsay No. 342 (RM)	--	--	--	--	--	
+Sask./Sask.	Saskatoon	Clavet (VL)	4	--	--	--	4	
+Sask./Sask.	Saskatoon	Meacham (VL)	--	--	--	--	--	
+Sask./Sask.	Saskatoon	Colonsay (T)	4	--	--	--	4	
+Sask./Sask.	Saskatoon	Vanscoy No. 345 (RM)	27	--	--	--	27	
+Sask./Sask.	Saskatoon	Delisle (T)	9	--	--	--	9	
+Sask./Sask.	Saskatoon	Vanscoy (VL)	1	--	--	--	1	
+Sask./Sask.	Saskatoon	Asquith (T)	3	--	--	--	3	
+Sask./Sask.	Saskatoon	Total	1,322	118	274	241	1,955	
+Sask./Sask.	Total	Total	2,065	144	403	338	2,950	
+Alta/Alb.	Calgary	Rocky View No. 44 (MD)	378	11	19	--	408	
+Alta/Alb.	Calgary	Calgary (CY)	4,927	787	1,000	4,447	11,161	
+Alta/Alb.	Calgary	Chestermere (T)	236	32	30	--	298	
+Alta/Alb.	Calgary	Cochrane (T)	251	26	12	--	289	
+Alta/Alb.	Calgary	Airdrie (CY)	807	151	205	120	1,283	
+Alta/Alb.	Calgary	Irricana (VL)	5	4	--	--	9	
+Alta/Alb.	Calgary	Beiseker (VL)	1	--	--	--	1	
+Alta/Alb.	Calgary	Crossfield (T)	17	2	--	7	26	
+Alta/Alb.	Calgary	Total	6,622	1,013	1,266	4,574	13,475	
+Alta/Alb.	Edmonton	Bruderheim (T)	12	--	--	--	12	
+Alta/Alb.	Edmonton	Leduc County (CM)	115	--	--	--	115	
+Alta/Alb.	Edmonton	Beaumont (T)	265	58	82	--	405	
+Alta/Alb.	Edmonton	New Sarepta (VL)	8	--	--	--	8	
+Alta/Alb.	Edmonton	Leduc (CY)	374	67	24	3	468	
+Alta/Alb.	Edmonton	Devon (T)	16	15	6	--	37	
+Alta/Alb.	Edmonton	Calmar (T)	2	--	--	--	2	
+Alta/Alb.	Edmonton	Sundance Beach (SV)	--	--	--	--	--	
+Alta/Alb.	Edmonton	Thorsby (VL)	4	--	--	--	4	
+Alta/Alb.	Edmonton	Itaska Beach (SV)	--	--	--	--	--	
+Alta/Alb.	Edmonton	Golden Days (SV)	1	--	--	--	1	
+Alta/Alb.	Edmonton	Warburg (VL)	5	--	--	--	5	
+Alta/Alb.	Edmonton	Parkland County (CM)	229	13	--	--	242	
+Alta/Alb.	Edmonton	Seba Beach (SV)	2	--	--	--	2	
+Alta/Alb.	Edmonton	Betula Beach (SV)	1	--	--	--	1	
+Alta/Alb.	Edmonton	Point Alison (SV)	--	--	--	--	--	
+Alta/Alb.	Edmonton	Lakeview (SV)	--	--	--	--	--	
+Alta/Alb.	Edmonton	Kapasiwin (SV)	--	--	--	--	--	
+Alta/Alb.	Edmonton	Wabamun (VL)	--	--	--	--	--	
+Alta/Alb.	Edmonton	Spring Lake (VL)	7	--	--	--	7	
+Alta/Alb.	Edmonton	Stony Plain (T)	155	111	34	60	360	
+Alta/Alb.	Edmonton	Spruce Grove (CY)	437	82	57	--	576	
+Alta/Alb.	Edmonton	Strathcona County (SM)	584	78	33	300	995	
+Alta/Alb.	Edmonton	Fort Saskatchewan (CY)	214	107	27	49	397	
+Alta/Alb.	Edmonton	Sturgeon County (MD)	242	--	--	--	242	
+Alta/Alb.	Edmonton	Edmonton (CY)	2,993	815	605	1,905	6,318	
+Alta/Alb.	Edmonton	St. Albert (CY)	237	43	16	82	378	
+Alta/Alb.	Edmonton	Gibbons (T)	42	--	5	4	51	
+Alta/Alb.	Edmonton	Redwater (T)	12	2	--	--	14	
+Alta/Alb.	Edmonton	Bon Accord (T)	6	--	--	--	6	
+Alta/Alb.	Edmonton	Morinville (T)	106	3	3	--	112	
+Alta/Alb.	Edmonton	Legal (T)	7	--	15	--	22	
+Alta/Alb.	Edmonton	Total	6,076	1,394	907	2,403	10,780	
+Alta/Alb.	Grande Prairie	Grande Prairie County No. 1 (CM)	149	2	--	--	151	
+Alta/Alb.	Grande Prairie	Hythe (VL)	4	0	8	--	12	
+Alta/Alb.	Grande Prairie	Beaverlodge (T)	22	--	2	--	24	
+Alta/Alb.	Grande Prairie	Wembley (T)	12	--	--	--	12	
+Alta/Alb.	Grande Prairie	Grande Prairie (CY)	513	137	184	199	1,033	
+Alta/Alb.	Grande Prairie	Sexsmith (T)	46	2	--	--	48	
+Alta/Alb.	Grande Prairie	Total	746	141	194	199	1,280	
+Alta/Alb.	Lethbridge	Lethbridge County (CM)	50	2	--	--	52	
+Alta/Alb.	Lethbridge	Lethbridge (CY)	584	48	36	112	780	
+Alta/Alb.	Lethbridge	Coalhurst (T)	29	4	--	--	33	
+Alta/Alb.	Lethbridge	Nobleford (VL)	20	--	19	--	39	
+Alta/Alb.	Lethbridge	Barons (VL)	--	--	--	--	--	
+Alta/Alb.	Lethbridge	Picture Butte (T)	9	--	--	--	9	
+Alta/Alb.	Lethbridge	Coaldale (T)	83	--	6	--	89	
+Alta/Alb.	Lethbridge	Total	775	54	61	112	1,002	
+Alta/Alb.	Medicine Hat	Cypress County (MD)	95	8	--	--	103	
+Alta/Alb.	Medicine Hat	Medicine Hat (CY)	327	68	37	169	601	
+Alta/Alb.	Medicine Hat	Redcliff (T)	15	5	11	--	31	
+Alta/Alb.	Medicine Hat	Total	437	81	48	169	735	
+Alta/Alb.	Red Deer	Red Deer (CY)	676	91	46	107	920	
+Alta/Alb.	Red Deer	Total	676	91	46	107	920	
+Alta/Alb.	Total	Total	15,332	2,774	2,522	7,564	28,192	
+B.C./C.-B.	Abbotsford	Abbotsford (CY)	249	8	83	430	770	
+B.C./C.-B.	Abbotsford	Mission (DM)	127	--	15	27	169	
+B.C./C.-B.	Abbotsford	Fraser Valley H (RDA)	--	--	--	--	--	
+B.C./C.-B.	Abbotsford	Total	376	8	98	457	939	
+B.C./C.-B.	Kelowna	Kelowna (CY)	440	61	195	1,152	1,848	
+B.C./C.-B.	Kelowna	Central Okanagan (RDA)	24	16	--	--	40	
+B.C./C.-B.	Kelowna	Lake Country (DM)	122	4	27	100	253	
+B.C./C.-B.	Kelowna	Peachland (DM)	22	10	34	--	66	
+B.C./C.-B.	Kelowna	Central Okanagan J (RDA)	301	10	14	301	626	
+B.C./C.-B.	Kelowna	Total	909	101	270	1,553	2,833	
+B.C./C.-B.	Vancouver	Langley (DM)	413	65	252	326	1,056	
+B.C./C.-B.	Vancouver	Langley (CY)	3	--	--	68	71	
+B.C./C.-B.	Vancouver	Surrey (CY)	1,209	57	860	1,487	3,613	
+B.C./C.-B.	Vancouver	White Rock (CY)	6	2	--	265	273	
+B.C./C.-B.	Vancouver	Delta (DM)	119	4	23	3	149	
+B.C./C.-B.	Vancouver	Richmond (CY)	213	56	186	1,184	1,639	
+B.C./C.-B.	Vancouver	Greater Vancouver A (RDA)	3	0	67	308	378	
+B.C./C.-B.	Vancouver	Vancouver (CY)	443	70	134	2,323	2,970	
+B.C./C.-B.	Vancouver	Burnaby (CY)	120	86	80	2,157	2,443	
+B.C./C.-B.	Vancouver	New Westminster (CY)	85	16	10	595	706	
+B.C./C.-B.	Vancouver	Coquitlam (CY)	83	26	90	805	1,004	
+B.C./C.-B.	Vancouver	Belcarra (VL)	3	--	--	--	3	
+B.C./C.-B.	Vancouver	Anmore (VL)	13	--	--	--	13	
+B.C./C.-B.	Vancouver	Port Coquitlam (CY)	24	--	95	564	683	
+B.C./C.-B.	Vancouver	Port Moody (CY)	42	1	92	643	778	
+B.C./C.-B.	Vancouver	North Vancouver (DM)	79	2	4	--	85	
+B.C./C.-B.	Vancouver	North Vancouver (CY)	18	18	47	723	806	
+B.C./C.-B.	Vancouver	West Vancouver (DM)	83	27	13	20	143	
+B.C./C.-B.	Vancouver	Bowen Island (IM)	23	--	--	2	25	
+B.C./C.-B.	Vancouver	Lions Bay (VL)	1	--	--	--	1	
+B.C./C.-B.	Vancouver	Pitt Meadows (DM)	89	--	31	217	337	
+B.C./C.-B.	Vancouver	Maple Ridge (DM)	297	58	106	442	903	
+B.C./C.-B.	Vancouver	Total	3,369	488	2,090	12,132	18,079	
+B.C./C.-B.	Victoria	North Saanich (DM)	26	9	5	5	45	
+B.C./C.-B.	Victoria	Sidney (T)	11	11	7	20	49	
+B.C./C.-B.	Victoria	Central Saanich (DM)	23	23	10	6	62	
+B.C./C.-B.	Victoria	Saanich (DM)	130	34	26	198	388	
+B.C./C.-B.	Victoria	Oak Bay (DM)	12	--	--	--	12	
+B.C./C.-B.	Victoria	Victoria (CY)	16	41	23	360	440	
+B.C./C.-B.	Victoria	Esquimalt (DM)	7	4	1	107	119	
+B.C./C.-B.	Victoria	Colwood (CY)	70	17	15	68	170	
+B.C./C.-B.	Victoria	Metchosin (DM)	11	1	--	--	12	
+B.C./C.-B.	Victoria	Langford (CY)	227	20	58	56	361	
+B.C./C.-B.	Victoria	View Royal (T)	28	--	--	42	70	
+B.C./C.-B.	Victoria	Highlands (DM)	12	--	--	--	12	
+B.C./C.-B.	Victoria	Sooke (DM)	121	16	20	--	157	
+B.C./C.-B.	Victoria	Capital H (Part 1) (RDA)	30	--	--	--	30	
+B.C./C.-B.	Victoria	Total	724	176	165	862	1,927	
+B.C./C.-B.	Chilliwack	Chilliwack (CY)	288	35	165	713	1,201	
+B.C./C.-B.	Chilliwack	Kent (DM)	24	3	7	--	34	
+B.C./C.-B.	Chilliwack	Fraser Valley E (RDA)	--	--	--	--	--	
+B.C./C.-B.	Chilliwack	Total	312	38	172	713	1,235	
+B.C./C.-B.	Kamloops	Logan Lake (DM)	3	--	--	--	3	
+B.C./C.-B.	Kamloops	Thompson-Nicola J (Copper Desert County) (RDA)	18	--	--	--	18	
+B.C./C.-B.	Kamloops	Kamloops (CY)	284	40	112	38	474	
+B.C./C.-B.	Kamloops	Thompson-Nicola P (Rivers & The Peaks) (RDA)	32	2	--	--	34	
+B.C./C.-B.	Kamloops	Chase (VL)	31	2	--	--	33	
+B.C./C.-B.	Kamloops	Total	368	44	112	38	562	
+B.C./C.-B.	Nanaimo	Nanaimo (CY)	407	168	48	266	889	
+B.C./C.-B.	Nanaimo	Lantzville (DM)	5	--	--	--	5	
+B.C./C.-B.	Nanaimo	Nanaimo A (RDA)	17	--	--	--	17	
+B.C./C.-B.	Nanaimo	Nanaimo C (RDA)	26	--	--	--	26	
+B.C./C.-B.	Nanaimo	Total	455	168	48	266	937	
+B.C./C.-B.	Prince George	Prince George (CY)	121	4	28	27	180	
+B.C./C.-B.	Prince George	Fraser-Fort George A (RDA)	10	--	--	--	10	
+B.C./C.-B.	Prince George	Fraser-Fort George C (RDA)	4	--	--	--	4	
+B.C./C.-B.	Prince George	Fraser-Fort George D (RDA)	2	--	--	--	2	
+B.C./C.-B.	Prince George	Fraser-Fort George F (RDA)	--	--	--	--	--	
+B.C./C.-B.	Prince George	Total	137	4	28	27	196	
+B.C./C.-B.	Vernon	Coldstream (DM)	50	13	12	--	75	
+B.C./C.-B.	Vernon	Vernon (CY)	170	87	71	28	356	
+B.C./C.-B.	Vernon	North Okanagan B (RDA)	7	--	--	--	7	
+B.C./C.-B.	Vernon	North Okanagan C (RDA)	18	6	--	--	24	
+B.C./C.-B.	Vernon	Total	245	106	83	28	462	
+B.C./C.-B.	Total	Total	6,895	1,133	3,066	16,076	27,170	
+Canada (50,000+)	Total	Total	72,470	10,278	17,912	63,974	164,634	
+								
+© 2014 Canada Mortgage and Housing Corporation / © 2014 Société canadienne d'hypothèques et de logement								
+Source: CMHC (Starts and Completions Survey) / Source: SCHL (mises en chantier et des achèvements)								
+								
+								
